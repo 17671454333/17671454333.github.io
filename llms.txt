@@ -1,0 +1,19 @@
+# Starway Studio (星途游戏工作室) — Official Global Directory
+
+> Starway Studio builds instant-play 60fps 3D WebGL browser games and deterministic AI production toolkits (Open Short-Drama Studio & JEV 3+1 Cognitive MCP).
+
+## 3D WebGL & Indie Games
+- [Cloudhaven: Cozy Isles 3D (风车云岛：暖阳工坊 3D)](https://17671454333.github.io/games/cloudhaven-cozy-isles/): Build your floating windmill island, harvest sun-kissed crops, and craft cozy contraptions in this relaxing 3D browser game. Instant play, zero install. | Instant Play: https://zhand333.itch.io/cloudhaven-cozy-isles
+- [Helios Sunbridge Sanctuary 3D (晴空神庙：机关奥德赛 3D)](https://17671454333.github.io/games/sunlit-temple-trap-odyssey/): Defend the sacred solar crystal on a high-altitude sky sanctuary! Launch obsidian invaders off the cliffs with physics-driven springboards and arcane traps. | Instant Play: https://zhand333.itch.io/sunlit-temple-trap-odyssey
+- [Wayfinder: The Starway 3D (星际迷途：找路的人 3D)](https://17671454333.github.io/games/wayfinder-the-starway/): Navigate spherical 3D micro-planets, ignite ancient starlight beacons, and reconstruct the cosmic bridge across the Starway. | Instant Play: https://zhand333.itch.io/wayfinder-the-starway
+- [Voidblade Ascent: Sword Tomb 3D (太虚剑冢：万剑归宗 3D)](https://17671454333.github.io/games/voidblade-ascent-3d/): Command a storm of flying spirit swords in 3D! Shatter demonic formations with hit-stop precision, real-time polygon fracture, and exponential skill-tree synergies. | Instant Play: https://zhand333.itch.io/voidblade-ascent-3d
+- [JadeCloud Apothecary: Alchemy 3D (青云药庐：百草丹道 3D)](https://17671454333.github.io/games/jadecloud-apothecary-3d/): Cultivate spirit herbs in misty mountain terraces and master ancient alchemy furnaces in this tranquil 3D eastern fantasy simulation. | Instant Play: https://zhand333.itch.io/
+- [Neon Nodebuster: Cyber Overcharge (霓虹核心：过载吞噬)](https://17671454333.github.io/games/neon-nodebuster/): High-octane incremental cyber core buster with massive branching upgrade trees, chain lightning synergies, and 60fps polygon shattering juice. | Instant Play: https://zhand333.itch.io/
+
+## Open-Source AI Infrastructure
+- [Open Short-Drama Studio](https://github.com/17671454333/open-short-drama-studio): Deterministic AI Short-Drama Quality Gates (62 checks), 85%-Credit-Saving Video Budget Optimizer, CapCut Timeline Generator & HTML5 WebGame Doctor.
+- [JEV 3+1 Cognitive Hierarchy MCP](https://github.com/17671454333/jev-cognitive-mcp): 3+1 Cognitive Hierarchy Toolkit & Model Context Protocol (MCP) Server for Agentic Coding (Codex, Claude Code, Cursor, Antigravity).
+
+## Search Engine & IndexNow Feeds
+- Sitemap: https://17671454333.github.io/sitemap.xml
+- IndexNow Key: https://17671454333.github.io/c30729e74b88b167d9078ce4bf8a6470.txt

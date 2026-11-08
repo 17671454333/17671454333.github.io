@@ -1,0 +1,48 @@
+# Starway Studio Global SEO & AI Search Robots Policy
+# Supports: Google, Bing (Yahoo/DuckDuckGo), Naver (Yeti), Yandex, Seznam, Cốc Cốc, Baidu & AI Search (ChatGPT/Perplexity/Claude)
+
+User-agent: *
+Allow: /
+
+# Traditional Global Search Engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# Korea Naver Search Advisor (Yeti)
+User-agent: Yeti
+Allow: /
+
+# Russia Yandex Webmaster
+User-agent: YandexBot
+Allow: /
+
+# Czech Seznam
+User-agent: SeznamBot
+Allow: /
+
+# Vietnam Coc Coc Search
+User-agent: coccocbot-web
+Allow: /
+
+# China Baidu Search
+User-agent: Baiduspider
+Allow: /
+
+# 2026 AI Search Engines (ChatGPT Search, Perplexity, Claude, Gemini)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://17671454333.github.io/sitemap.xml
+Host: 17671454333.github.io
